@@ -1,0 +1,62 @@
+.descricao-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .descricao-container h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .descricao-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .descricao-container p {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 1rem;
+  }
+  
+  .descricao-container .details {
+    font-size: 0.95rem;
+    color: #444;
+    line-height: 1.6;
+  }
+  
+  .descricao-container .price {
+    font-size: 1.5rem;
+    color: #e60000;
+    font-weight: bold;
+    margin-top: 15px;
+  }
+  
+  .descricao-container .availability {
+    font-size: 1rem;
+    color: #28a745;
+    margin-bottom: 15px;
+  }
+  
+  .back-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+  }
+  
+  .back-button:hover {
+    background-color: #0056b3;
+  }
+  

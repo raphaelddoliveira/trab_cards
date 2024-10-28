@@ -1,0 +1,27 @@
+/* src/styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
